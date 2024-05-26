@@ -1,0 +1,72 @@
+---------------- python ------------------
+
+-- 01 what is the 'PEP' ???
+
+-- 02 python is interpreted language ???
+
+-- 03 python is dynamically type language ???
+
+-- 04 is indentation required in python ???
+
+-- 05 How to print without a newline in python ???
+
+-- 06 what are the keywords in python ???
+
+-- 07 List all the built-in data types in python language ???
+
+Text Type	: str
+Numeric Types   : int, float, complex
+Sequence Types  : list, tuple, range
+Mapping Type    : dict
+Set Types 	: set, frozenset
+Boolean Type	: bool
+Binary Types	: bytes, bytearray, memoryview
+None Type	: None Type
+
+
+-- 08 what are the differences between Python arrays and lists ???
+
+-- 09 what is the dictionary data type in python ???
+
+-- 10 explain the concept of indexing in python ???
+              -> apply for iteration...
+
+-- 11 explain the concept of slicing ???
+
+-- 12 different between List & Tuple ??? 
+
+	List                   		Tuple
+- mutable                	  - imutable
+- implication of iteration	  - implication of iteration
+  is Time-Consuming 	            is comparatively faster
+- better for performing           - appropriate for the accessing the
+  operation(insertion & deletion)   elements
+- consume more memory		  - consume less memory
+- have several built-in methods.  - doesn't have many built-in methods. 
+- unexpected changes and errors   - it is hard to take place
+
+
+-- 13 what are functions in python ???
+
+
+-- 14 explain Module & Package in python ???
+
+
+-- 15 reverse string in python ???
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
